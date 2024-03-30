@@ -12,7 +12,8 @@ This is an analysis of food prices data for Nigeria sourced from the World Food 
 
 ## Project Overview
 
-This study analyses food prices for Nigeria from 2002 - 2003 across selected states in Nigeria. By conducting a price analysis, policymakers, businesses, and consumers can gain insights into the trends and fluctuations in food prices, allowing them to make informed decisions. This analysis can help identify potential food security issues, assess the impact of external factors like weather events or economic conditions, and develop strategies to mitigate price volatility. Additionally, a food price analysis can also help in identifying opportunities for cost savings, market expansion, and sustainable sourcing practices, ultimately contributing to a more efficient and resilient food system.
+This study analyzes food prices for Nigeria from 2002 - 2003 across selected states in Nigeria. By conducting a price analysis, policymakers, businesses, and consumers can gain insights into the trends and fluctuations in food prices, allowing them to make informed decisions. This analysis can help identify potential food security issues, assess the impact of external factors like weather events or economic conditions, and develop strategies to mitigate price volatility. Additionally, a food price analysis can also help in identifying opportunities for cost savings, market expansion, and sustainable sourcing practices, ultimately contributing to a more efficient and resilient food system.
+
 
 ## Data sources
 
