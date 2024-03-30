@@ -10,6 +10,19 @@ This is an analysis of food prices data for Nigeria sourced from the World Food 
 - [Limitations of the analysis](#limitations-of-the-study)
 - [Recommendations](#recommendations)
 
+## Project Overview
+
+This study analyses food prices for Nigeria from 2002 - 2003 across selected states in Nigeria. By conducting a price analysis, policymakers, businesses, and consumers can gain insights into the trends and fluctuations in food prices, allowing them to make informed decisions. This analysis can help identify potential food security issues, assess the impact of external factors like weather events or economic conditions, and develop strategies to mitigate price volatility. Additionally, a food price analysis can also help in identifying opportunities for cost savings, market expansion, and sustainable sourcing practices, ultimately contributing to a more efficient and resilient food system.
+
+## Data Sources
+
+
+## Tools for analysis
+
+## Data Cleaning, Preparation and Transformation
+
+## Results and findings
+
 
 ## Limitations of the study
 
@@ -18,3 +31,5 @@ This is an analysis of food prices data for Nigeria sourced from the World Food 
 2. Also, data was not evenly collected across all the same number of markets in some states. Borno and Yobe states had the highest number of markets where food prices were collated while some had just one market
 
 3. The method used to calculate inflation which is the Consumer Price Index also has some limitations. The CPI measures the percentage change in the prices of a basket of goods and services of household goods. These goods and services are divided into eight categories: housing, apparel, transportation, medical, recreation, food and beverages, education, and other goods and services. This study only analyzed foods and non-food items excluding other categories which are important for measuring inflation
+
+## Recommendations
