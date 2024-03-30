@@ -5,7 +5,7 @@ This is an analysis of food prices data for Nigeria sourced from the World Food 
 - [Project overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools for analysis](#tools-for-analysis)
-- [Data Cleaning, Preparation and Transformation](#data-cleaning-preparation-and-transformation)
+- [Data Cleaning](#data-cleaning)
 - [Results and findings](#results-and-findings)
 - [Limitations of the analysis](#limitations-of-the-study)
 - [Recommendations](#recommendations)
@@ -19,7 +19,7 @@ This study analyses food prices for Nigeria from 2002 - 2003 across selected sta
 
 ## Tools for analysis
 
-## Data Cleaning, Preparation and Transformation
+## Data Cleaning
 
 ## Results and findings
 
