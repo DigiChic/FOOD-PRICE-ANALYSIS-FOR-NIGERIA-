@@ -42,10 +42,17 @@ Major KPIs at a glance
 
 ## Limitations of the study
 
-1. The data didn't cover all the geopolitical zones in Nigeria. Concentrated on markets in the North East and North West leaving out other zones which may lead to bias. States in the North Central and South South were not included. 
+1. The data didn't cover all the geopolitical zones in Nigeria. States in the North Central and South South geo-political zones were not included. The data oncentrated on markets in the North East and North West leaving out other zones which may lead to bias.
 
 2. Also, data was not evenly collected across all the same number of markets in some states. Borno and Yobe states had the highest number of markets where food prices were collated while some states had just one market each.
 
-3. The method used to calculate inflation which is the Consumer Price Index also has some limitations. The CPI measures the percentage change in the prices of a basket of goods and services of household goods. These goods and services are divided into eight categories: housing, apparel, transportation, medical, recreation, food and beverages, education, and other goods and services. This study only analyzed foods and non-food items excluding other categories which are important for measuring inflation
+3. Using the Consumer Price Index (CPI) to calculate inflation would present some limitations. The CPI measures the percentage change in the prices of a basket of goods and services of household goods. These goods and services are divided into eight categories: housing, apparel, transportation, medical, recreation, food and beverages, education, and other goods and services. This study only analyzed foods and non-food items excluding other categories which are important for measuring inflation rate.
 
 ## Recommendations
+
+- Despite the reported high rate of insecurity in the North East, Borno and Yobe states had the highest number of markets were where the data was collected. This could be as a result of the amount of grains produced in these states. The administration can protect farmers and ensure food security by providing infrastructure to secure farmlands and agricultural produce.
+
+- Stakeholders in agriculture can invest in improving food distribution networks, storage facilities, and transportation infrastructure to reduce food losses, ensure food reaches markets efficiently, and stabilize prices from the North to other states in the South.
+
+- Areas where food production is lower compared to the North, the adoption of sustainable farming methods such as agroecology, organic farming, and conservation agriculture to protect the environment and ensure long-term food security should be encouraged.
+
