@@ -66,6 +66,8 @@ On the right side, the line graph titled Sum of sales by Month depicts a declini
 
 ### Yearly rise of food prices
 
+![Screen3](Screen3.png)
+
 The drop in food prices in 2022 could be attributed to the growth rate in the agricultural sector from the last quarter of 2021 to the first quarter in 2022
 (Source:[Statista.com](https://www.statista.com/statistics/1193510/agricultural-sector-growth-in-nigeria/#:~:text=In%20the%20second%20quarter%20of,growth%20of%20over%203.5%20percent))
 
