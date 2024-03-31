@@ -45,12 +45,22 @@ I removed outliers from the data by checking for prices of goods whose figures a
 - Cereals and tubers, pulses and nuts and vegetables and fruits were the leading categories, with 17 commodities such as rice, millet, yam, cassava etc. categorized under cearels and tubers. Other non food items such as diesel and petrol (gasoline) was also analyzed
  
 
-
-
-
 ### Top 10 commodities by price and highest sales by month
 
+![Screen2](Screen2.png)
 
+The top 10 commodities sold are 
+
+- Groundnut (shelled), 
+- Rice (imported), 
+- Cowpea (brown), 
+- Yam (white), 
+- Dry Maize, 
+- Millet,
+- Cassava meal (gari, yellow), 
+- Gari (white), 
+- Sorghum (red), and 
+- Sorghum (white).
 
 
 
