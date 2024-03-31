@@ -38,6 +38,8 @@ I removed outliers from the data by checking for prices of goods whose figures a
 
 #### Major KPIs at a glance
 
+![Screen1](Screen1.png)
+
 - Data on food prices was collated from 2002-2023 and covers 14 states in Nigeria and 56 markets in these states were analyzed. 8 food categories were identified and 42 commodities were sold during this period.  The total recorded sales amount to ₦404.97 million.
  
 
