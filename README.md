@@ -1,5 +1,6 @@
 # FOOD PRICE ANALYSIS FOR NIGERIA
-This is an analysis of food prices data for Nigeria sourced from the World Food Programme Price Database. The analysis covers staple foods such as maize, rice, beans, yam and fuel across selected states in Nigeria.  
+This is an analysis of food prices data from 2002-2023 for Nigeria sourced from the World Food Programme Price Database
+The analysis covers staple foods such as maize, rice, beans, yam and fuel across selected states in Nigeria.  
 
 **DOCUMENTATION OUTLINE**
 - [Project overview](#project-overview)
@@ -17,6 +18,7 @@ This study analyzes food prices for Nigeria from 2002 - 2003 across selected sta
 
 ## Data sources
 
+[You can click the link to the data here](https://data.humdata.org/dataset/wfp-food-prices-for-nigeria) and it is updated every month. Note that the downloaded series for the month of March was used here 
 
 ## Tools for analysis
 
