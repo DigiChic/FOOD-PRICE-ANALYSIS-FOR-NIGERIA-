@@ -18,7 +18,9 @@ This study analyzes food prices for Nigeria from 2002 - 2003 across selected sta
 
 ## Data sources
 
-[You can click the link to the data here](https://data.humdata.org/dataset/wfp-food-prices-for-nigeria) and it is updated every month. Note that the downloaded series for the month of March was used here 
+The data used is a collation of a series of data by the [World Food Program](https://www.wfp.org/) and it is updated every month
+
+[To get a direct link, click here](https://data.humdata.org/dataset/wfp-food-prices-for-nigeria). Note that the downloaded series for the month of March was used here 
 
 ## Tools for analysis
 
