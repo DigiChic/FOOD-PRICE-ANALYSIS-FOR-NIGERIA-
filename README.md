@@ -36,8 +36,25 @@ I removed outliers from the data by checking for prices of goods whose figures a
 
 ### Insights from the analysis
 
-Major KPIs at a glance
+#### Major KPIs at a glance
 
+
+
+
+### Top 10 commodities by price and highest sales by month
+
+
+
+
+
+
+
+### Yearly rise of food prices
+
+The drop in food prices in 2022 could be attributed to the growth rate in the agricultural sector from the last quarter of 2021 to the first quarter in 2022
+Source: [Statista.com](https://www.statista.com/statistics/1193510/agricultural-sector-growth-in-nigeria/#:~:text=In%20the%20second%20quarter%20of,growth%20of%20over%203.5%20percent)
+
+### Map showing areas covered by the study 
 
 
 ## Limitations of the study
