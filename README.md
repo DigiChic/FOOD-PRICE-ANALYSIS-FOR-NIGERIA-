@@ -42,7 +42,7 @@ I removed outliers from the data by checking for prices of goods whose figures a
 
 - Data on food prices was collated from 2002-2023 and covers 14 states in Nigeria and 56 markets in these states were analyzed. 8 food categories were identified and 42 commodities were sold during this period.  Borno, Adamawa and Yobe are top 3 states in terms of commodities sold. The total recorded sales amount to ₦404.97 million.
   
-- Cereals and tubers, Pulses and nuts and vegetables and fruits were the leading categories, with 17 commodities such as rice, millet, yam, cassava etc. categorized under cearels and tubers
+- Cereals and tubers, pulses and nuts and vegetables and fruits were the leading categories, with 17 commodities such as rice, millet, yam, cassava etc. categorized under cearels and tubers. Other non food items such as diesel and petrol (gasoline) was also analyzed
  
 
 
