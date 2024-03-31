@@ -77,13 +77,17 @@ The drop in food prices in 2022 could be attributed to the growth rate in the ag
 
 ![Screen5](Screen5.png)
 
+This map shows the markets across different states in Nigeria and its neighboring countries. 
+
+Each state within Nigeria is color-coded, making it easy to identify various market regions.
+
 ## Limitations of the study
 
 1. The data didn't cover all the geopolitical zones in Nigeria. Not a single State from the North Central and South South geo-political zones was representated. 
 
 2. Also, data was not evenly collected across all the same number of markets in some states. Borno and Yobe states had the highest number of markets where food prices were collated while some states had just one market each.
 
-3. Using the Consumer Price Index (CPI) to calculate inflation would present some limitations. The CPI measures the percentage change in the prices of a basket of goods and services of household goods. These goods and services are divided into eight categories: housing, apparel, transportation, medical, recreation, food and beverages, education, and other goods and services. This study only analyzed foods and non-food items excluding other categories which are important for measuring inflation rate. Instead of usind the CPI method, a Year on Year change in price for the past 5 years was analysed.
+3. Using the Consumer Price Index (CPI) to calculate inflation would present some limitations. The CPI measures the percentage change in the prices of a basket of goods and services of household goods. These goods and services are divided into eight categories: housing, apparel, transportation, medical, recreation, food and beverages, education, and other goods and services. This study only analyzed foods and non-food items excluding other categories which are important for measuring inflation rate. 
 
 ## Recommendations
 
