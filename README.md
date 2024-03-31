@@ -28,7 +28,7 @@ Power BI [You can find it here](https://powerbi.microsoft.com/en-us/downloads/)
 
 ## Data cleaning
 
-The data was checked for blanks and duplicates, unnecessary row deleted, renamed each column and formatted to the correctbdata type. 
+The data was checked for blanks and duplicates, unnecessary row deleted, renamed each column and formatted to the correct data type. 
 
 I removed outliers from the data by checking for prices of goods whose figures are not reasonable. 
 
