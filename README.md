@@ -75,6 +75,7 @@ The drop in food prices in 2022 could be attributed to the growth rate in the ag
 
 ### Map showing areas covered by the study 
 
+![Screen5](Screen5.png)
 
 ## Limitations of the study
 
