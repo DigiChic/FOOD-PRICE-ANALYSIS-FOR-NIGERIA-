@@ -68,6 +68,8 @@ On the right side, the line graph titled Sum of sales by Month depicts a declini
 
 ![Screen3](Screen3.png)
 
+The graph above shows a steady increase in food prices over the years. Minimal increase is observed from 2002 to around 2013. After 2013, there's a significant upward increase in food prices. The highest point is reached in 2021, followed by a slight decline in 2022 and an upward surge in 2023
+
 The drop in food prices in 2022 could be attributed to the growth rate in the agricultural sector from the last quarter of 2021 to the first quarter in 2022
 (Source:[Statista.com](https://www.statista.com/statistics/1193510/agricultural-sector-growth-in-nigeria/#:~:text=In%20the%20second%20quarter%20of,growth%20of%20over%203.5%20percent))
 
