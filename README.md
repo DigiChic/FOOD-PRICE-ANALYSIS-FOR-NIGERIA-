@@ -62,9 +62,7 @@ The top 10 commodities sold are
 - Sorghum (red), and 
 - Sorghum (white).
 
-
-
-
+On the right side, the line graph titled Sum of sales by Month depicts a declining trend in sales from August to February. August reported the highest sales of commodities  due to the fact that harvesting is usually done at this time and there are more goods available for sale in the market while the month of February saw the least amount of sales due to the dry season when planting does not occur.
 
 ### Yearly rise of food prices
 
