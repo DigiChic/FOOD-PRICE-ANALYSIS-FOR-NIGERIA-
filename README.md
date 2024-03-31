@@ -22,6 +22,10 @@ This study analyzes food prices for Nigeria from 2002 - 2003 across selected sta
 
 ## Data cleaning
 
+The data was checked for blanks and duplicates, unnecessary row deleted, renamed each column and formatted to the correctbdata type. 
+
+I removed outliers from the data by checking for prices of goods whose figures are not reasonable. 
+
 ## Results and findings
 
 
